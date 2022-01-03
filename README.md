@@ -1,8 +1,14 @@
 ### Hi there 👋
 
+<br/>
+
+<a href="https://emmanuelvln.github.io/kanaaa/"> <img src="https://raw.githubusercontent.com/emmanuelvln/kanaaa/main/imgs/favicon.png" width="100"/> </a> <br/>
 Wanna learn some kanas? [Click me!](https://emmanuelvln.github.io/kanaaa/)
 
-<a href="https://emmanuelvln.github.io/amf/"> <img src="https://emmanuelvln.github.io/amf/photos/flower2.png" alt="drawing" width="100"/> </a> <br/>
+<br/>
+<br/>
+
+<a href="https://emmanuelvln.github.io/amf/"> <img src="https://emmanuelvln.github.io/amf/photos/flower2.png" width="100"/> </a> <br/>
 Wanna see some flowers? [Click me!](https://emmanuelvln.github.io/amf/)
 
 <!--
