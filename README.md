@@ -6,7 +6,6 @@
 Wanna learn some kanas? [Click me!](https://emmanuelvln.github.io/kanaaa/)
 
 <br/>
-<br/>
 
 <a href="https://emmanuelvln.github.io/amf/"> <img src="https://emmanuelvln.github.io/amf/photos/flower2.png" width="100"/> </a> <br/>
 Wanna see some flowers? [Click me!](https://emmanuelvln.github.io/amf/)
