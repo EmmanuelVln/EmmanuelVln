@@ -3,7 +3,7 @@
 <br/>
 
 <a href="https://emmanuelvln.github.io/kanaaa/"> <img src="https://raw.githubusercontent.com/emmanuelvln/kanaaa/main/imgs/favicon.png" width="100"/> </a> <br/>
-Wanna learn some kanas? [Click me!](https://emmanuelvln.github.io/kanaaa/)
+Wanna learn some japanese characters? [Click me!](https://emmanuelvln.github.io/kanaaa/)
 
 <br/>
 
