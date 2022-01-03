@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+###Wanna see some flowers?
+###Go here ->
+
+###Wanna learn kanas?
+###Go here ->
+
 <!--
 **alwaysmoreflowers/alwaysmoreflowers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
