@@ -1,9 +1,11 @@
 ### Hi there 👋
 
 Wanna learn some kanas? [Click me!](https://emmanuelvln.github.io/kanaaa/)
-![Flowy](https://emmanuelvln.github.io/amf/photos/flower2.png "Nigritelle Noire")
 
 Wanna see some flowers? [Click me!](https://emmanuelvln.github.io/amf/)
+[![AMF](https://emmanuelvln.github.io/amf/photos/flower2.png)](https://emmanuelvln.github.io/amf/)
+
+<img src="https://emmanuelvln.github.io/amf/photos/flower2.png" alt="drawing" width="200"/>
 
 <!--
 **alwaysmoreflowers/alwaysmoreflowers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
