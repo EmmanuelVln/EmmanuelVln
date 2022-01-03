@@ -3,9 +3,7 @@
 Wanna learn some kanas? [Click me!](https://emmanuelvln.github.io/kanaaa/)
 
 Wanna see some flowers? [Click me!](https://emmanuelvln.github.io/amf/)
-[![AMF](https://emmanuelvln.github.io/amf/photos/flower2.png)](https://emmanuelvln.github.io/amf/)
-
-<img src="https://emmanuelvln.github.io/amf/photos/flower2.png" alt="drawing" width="200"/>
+<a href="https://emmanuelvln.github.io/amf/"><img src="https://emmanuelvln.github.io/amf/photos/flower2.png" alt="drawing" width="200"/></a>
 
 <!--
 **alwaysmoreflowers/alwaysmoreflowers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
