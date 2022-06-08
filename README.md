@@ -13,4 +13,4 @@ Wanna see some flowers? [Click me!](https://emmanuelvln.github.io/amf/)
 <br/>
 
 <a href="https://github.com/Rukmaksii"> <img src="https://avatars.githubusercontent.com/u/95425011?s=200&v=4" width="100"/> </a> <br/>
-Checkout this new project I am a part of [Click me!](https://github.com/Rukmaksii)
+Checkout this new project I am a part of. [Click me!](https://github.com/Rukmaksii)
