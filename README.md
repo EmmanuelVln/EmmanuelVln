@@ -5,6 +5,8 @@
 <a href="https://emmanuelvln.github.io/eohwiii/"> <img src="https://raw.githubusercontent.com/emmanuelvln/eohwiii/main/imgs/icon.png" width="100"/> </a> <br/>
 Wanna learn some korean vocabulary? [Click me!](https://emmanuelvln.github.io/eohwiii/)
 
+<br/>
+
 <a href="https://emmanuelvln.github.io/kanaaa/"> <img src="https://raw.githubusercontent.com/emmanuelvln/kanaaa/main/imgs/favicon.png" width="100"/> </a> <br/>
 Wanna learn some japanese characters? [Click me!](https://emmanuelvln.github.io/kanaaa/)
 
